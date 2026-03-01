@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Esp 32 festher Gesture Rec",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
